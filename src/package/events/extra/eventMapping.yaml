@@ -1,31 +1,46 @@
 haptics:
   notif_happy_alert:
     DEFAULT: happy_alert
+    MX Master 4: happy_alert
   notif_angry_alert:
     DEFAULT: angry_alert
+    MX Master 4: angry_alert
   notif_completed:
     DEFAULT: completed
+    MX Master 4: completed
   notif_knock:
     DEFAULT: knock
+    MX Master 4: knock
   notif_jingle:
     DEFAULT: jingle
+    MX Master 4: jingle
   notif_ringing:
     DEFAULT: ringing
+    MX Master 4: ringing
   notif_wave:
     DEFAULT: wave
+    MX Master 4: wave
   notif_firework:
     DEFAULT: firework
+    MX Master 4: firework
   notif_square:
     DEFAULT: square
+    MX Master 4: square
   notif_mad:
     DEFAULT: mad
+    MX Master 4: mad
   notif_sharp_state_change:
     DEFAULT: sharp_state_change
+    MX Master 4: sharp_state_change
   notif_damp_state_change:
     DEFAULT: damp_state_change
+    MX Master 4: damp_state_change
   notif_sharp_collision:
     DEFAULT: sharp_collision
+    MX Master 4: sharp_collision
   notif_damp_collision:
     DEFAULT: damp_collision
+    MX Master 4: damp_collision
   notif_subtle_collision:
     DEFAULT: subtle_collision
+    MX Master 4: subtle_collision
