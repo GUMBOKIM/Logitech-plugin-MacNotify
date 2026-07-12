@@ -1,0 +1,31 @@
+haptics:
+  notif_happy_alert:
+    DEFAULT: happy_alert
+  notif_angry_alert:
+    DEFAULT: angry_alert
+  notif_completed:
+    DEFAULT: completed
+  notif_knock:
+    DEFAULT: knock
+  notif_jingle:
+    DEFAULT: jingle
+  notif_ringing:
+    DEFAULT: ringing
+  notif_wave:
+    DEFAULT: wave
+  notif_firework:
+    DEFAULT: firework
+  notif_square:
+    DEFAULT: square
+  notif_mad:
+    DEFAULT: mad
+  notif_sharp_state_change:
+    DEFAULT: sharp_state_change
+  notif_damp_state_change:
+    DEFAULT: damp_state_change
+  notif_sharp_collision:
+    DEFAULT: sharp_collision
+  notif_damp_collision:
+    DEFAULT: damp_collision
+  notif_subtle_collision:
+    DEFAULT: subtle_collision

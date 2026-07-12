@@ -1,0 +1,46 @@
+events:
+  - name: notif_happy_alert
+    displayName: Notification (Happy Alert)
+    description: macOS notification haptic with the Happy Alert pattern
+  - name: notif_angry_alert
+    displayName: Notification (Angry Alert)
+    description: macOS notification haptic with the Angry Alert pattern
+  - name: notif_completed
+    displayName: Notification (Completed)
+    description: macOS notification haptic with the Completed pattern
+  - name: notif_knock
+    displayName: Notification (Knock)
+    description: macOS notification haptic with the Knock pattern
+  - name: notif_jingle
+    displayName: Notification (Jingle)
+    description: macOS notification haptic with the Jingle pattern
+  - name: notif_ringing
+    displayName: Notification (Ringing)
+    description: macOS notification haptic with the Ringing pattern
+  - name: notif_wave
+    displayName: Notification (Wave)
+    description: macOS notification haptic with the Wave pattern
+  - name: notif_firework
+    displayName: Notification (Firework)
+    description: macOS notification haptic with the Firework pattern
+  - name: notif_square
+    displayName: Notification (Square)
+    description: macOS notification haptic with the Square pattern
+  - name: notif_mad
+    displayName: Notification (Mad)
+    description: macOS notification haptic with the Mad pattern
+  - name: notif_sharp_state_change
+    displayName: Notification (Sharp State Change)
+    description: macOS notification haptic with the Sharp State Change pattern
+  - name: notif_damp_state_change
+    displayName: Notification (Damp State Change)
+    description: macOS notification haptic with the Damp State Change pattern
+  - name: notif_sharp_collision
+    displayName: Notification (Sharp Collision)
+    description: macOS notification haptic with the Sharp Collision pattern
+  - name: notif_damp_collision
+    displayName: Notification (Damp Collision)
+    description: macOS notification haptic with the Damp Collision pattern
+  - name: notif_subtle_collision
+    displayName: Notification (Subtle Collision)
+    description: macOS notification haptic with the Subtle Collision pattern
