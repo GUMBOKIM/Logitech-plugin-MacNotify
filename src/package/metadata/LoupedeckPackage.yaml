@@ -59,7 +59,8 @@ pluginCapabilities:
     #- ActivatesApplication
 
 # Minimum Loupedeck version supported by the plugin.
-minimumLoupedeckVersion: 6.0
+# 6.4+ required: the plugin targets .NET 10, matching the PluginApi shipped with service 6.4.
+minimumLoupedeckVersion: 6.4
 
 
 # ==================================================================================================
