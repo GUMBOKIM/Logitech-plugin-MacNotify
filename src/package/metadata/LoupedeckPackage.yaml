@@ -18,7 +18,7 @@ description: Feel your Mac notifications. Plays haptic feedback on the MX Master
 pluginFileName: MacNotifyPlugin.dll
 
 # Plugin version.
-version: 1.0
+version: 1.0.1
 
 # Author of the plugin. The author can be a company or an individual developer.
 author: daeheekim
