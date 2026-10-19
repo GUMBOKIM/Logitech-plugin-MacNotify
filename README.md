@@ -23,15 +23,17 @@
 
 - macOS
 - Logitech **MX Master 4** (the only mouse with a haptic motor)
-- [Logi Options+](https://www.logitech.com/software/logi-options-plus.html) 1.95 or later
+- [Logi Options+](https://www.logitech.com/software/logi-options-plus.html) 1.95 or later, with Logi Plugin Service 6.4 or later
 
 ## Installation
 
-Download `MacNotify_x_x.lplug4` from [Releases](../../releases) and double-click it,
+Install it from the [Logitech Marketplace](https://marketplace.logi.com/plugin/MacNotify/en).
+
+Or download `MacNotify_1_0_1.lplug4` from [Releases](../../releases) and double-click it,
 or install via the Logi Plugin Tool:
 
 ```
-logiplugintool install MacNotify_1_0.lplug4
+logiplugintool install MacNotify_1_0_1.lplug4
 ```
 
 Then in **Logi Options+ → MX Master 4 → buttons**, you'll find the MacNotify actions:
@@ -52,7 +54,7 @@ System Settings → Privacy & Security.
 
 ## Building from source
 
-Requires the [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) and Logi Options+.
+Requires the [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) and Logi Options+ (Logi Plugin Service 6.4 or later).
 
 ```
 dotnet tool install --global LogiPluginTool
@@ -63,8 +65,8 @@ Package for distribution:
 
 ```
 dotnet build -c Release
-logiplugintool pack ./bin/Release/ ./MacNotify_1_0.lplug4
-logiplugintool verify ./MacNotify_1_0.lplug4
+logiplugintool pack ./bin/Release/ ./MacNotify_1_0_1.lplug4
+logiplugintool verify ./MacNotify_1_0_1.lplug4
 ```
 
 ## How it works
