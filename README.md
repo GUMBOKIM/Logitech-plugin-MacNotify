@@ -10,6 +10,10 @@
   the moment a macOS notification banner appears — with per-app vibration patterns.
 </p>
 
+<p align="center">
+  📝 How it was built: <a href="https://blog.daeheekim.dev/en/posts/macnotify/">blog post</a> · <a href="https://blog.daeheekim.dev/posts/macnotify/">한국어</a>
+</p>
+
 ## Features
 
 - ⚡ **Real-time** — detects notification banners in ~100 ms by streaming the macOS unified log (no polling delay)
